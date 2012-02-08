@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[RootViewController viewWillAppear:]:RootViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.tableView">
+            </PersistentString>
+            <PersistentString
+               value = "[self.tableView reloadData]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[AddViewController save_Clicked:]:AddViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "txtWoNumber.text">
+            </PersistentString>
+            <PersistentString
+               value = "woObj.woNumber">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[RootViewController tableView:didSelectRowAtIndexPath:]:RootViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "dvController">
+            </PersistentString>
+            <PersistentString
+               value = "woObj">
+            </PersistentString>
+            <PersistentString
+               value = "self">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[WorkOrder getInitialDataToDisplay:]:WorkOrder.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SQLAppDelegate modifyWorkOrder:]:SQLAppDelegate.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[EditViewController save_Clicked:]:EditViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "objectToEdit">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[WorkOrder updateWorkOrder]:WorkOrder.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "woDate">
+            </PersistentString>
+            <PersistentString
+               value = "dString1">
+            </PersistentString>
+            <PersistentString
+               value = "woNumber">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[WorkOrder hydrateDetailViewData]:WorkOrder.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "debtorDN">
+            </PersistentString>
+            <PersistentString
+               value = "woNumber">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
